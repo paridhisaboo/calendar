@@ -3,3 +3,25 @@ html, body {
 	height: 100%;
 }
 
+.card-body {
+    text-align: center;
+}
+
+.card-deck {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 12px;
+}
+
+.days-header .card {
+    height: 70px;
+}
+
+.days-header h1 {
+    border-bottom: solid #e74c3c 10px;
+}
+
+.day {
+    font-size: 4rem;
+}
