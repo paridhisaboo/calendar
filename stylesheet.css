@@ -25,3 +25,29 @@ html, body {
 .day {
     font-size: 4rem;
 }
+
+.shop-carousel {
+    height: 60%;;
+}
+
+.carousel-item img {
+    width: 640px;
+    height: 360px;
+    background-attachment: fixed;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hello {
+    font-weight: 500;
+}
+
+.month {
+    font-weight: 500;
+}
+
+.background-img {
+    background-size: cover;
+}
