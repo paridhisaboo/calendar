@@ -1,0 +1,5 @@
+We used the following languages and frameworks for this project-
+HTML- To form the basic structure of the website
+CSS- To style, position elements and make similar modifications to the website
+Bootstrap- Used the bootstrap framework to use some of their pre-written stylesheets 
+Acquired images from Pexels and used Github for easy collaboration and version control.
